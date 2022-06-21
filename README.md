@@ -1,0 +1,2 @@
+# Predicition_of_the_crude_oil_production
+The project was implemented using the data collected and given by the “Joint organisations data initiative”. It uses data from the previous year's production trends to predict the present production trends using 123 different features.  Several algorithms were performed for predictions i.e KNN, SVM, XGBoost and others. It was found that XGBoost gave us the best predictions with an accuracy of 76.5355% and a roc-auc score of 0.714.
